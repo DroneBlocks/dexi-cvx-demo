@@ -7,7 +7,12 @@ re-plans the next 3 seconds of flight 10 times a second and streams the plan to 
 
 *Two laps on a DEXI-3 indoors, from the drone's own position estimate (`plot_lap.py`).*
 
-Videos: [0.3 m/s lap](https://youtube.com/shorts/lgaFkHRtlTA) · [0.5 m/s lap](https://youtube.com/shorts/46HykEcLu5Y)
+<table>
+<tr>
+<td align="center"><a href="https://youtube.com/shorts/lgaFkHRtlTA"><img src="docs/video-0.3.jpg" width="200" alt="0.3 m/s lap video"></a><br>0.3 m/s lap</td>
+<td align="center"><a href="https://youtube.com/shorts/46HykEcLu5Y"><img src="docs/video-0.5.jpg" width="200" alt="0.5 m/s lap video"></a><br>0.5 m/s lap</td>
+</tr>
+</table>
 
 ## The racetrack
 
